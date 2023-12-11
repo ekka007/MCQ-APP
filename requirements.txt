@@ -1,0 +1,6 @@
+openai
+langchain
+steamlint
+python-dotenv
+pyPDF2
+
